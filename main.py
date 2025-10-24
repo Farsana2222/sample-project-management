@@ -30,5 +30,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-# ToDo: implement input validation
-# in progress
+# ToDo: implement input validatio
