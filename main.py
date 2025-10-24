@@ -30,5 +30,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-# ToDo: implement input validation
-# Temporary cooment to enable pull request
+# ToDo: implement input validatio
